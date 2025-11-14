@@ -4,3 +4,4 @@
 - print time：打印时间。
 - encryptAndDecryptFiles:使用aes加解密文件。
 - shares_spy：监测股票价格，使用ntfy或者邮件通知。
+- windows_notification.py windows简单提醒
